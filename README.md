@@ -35,8 +35,8 @@ NewsApp is a sleek and modern news application built using Tailwind CSS, React.j
    ```
    <br>
 4. Run the development server:
-   ```bash
-    npm run dev
+  ```bash
+   npm run dev
    ```
    <br>
    <h1>Contributing</h1>
