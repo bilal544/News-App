@@ -25,13 +25,19 @@ NewsApp is a sleek and modern news application built using Tailwind CSS, React.j
    <br>
 
 2. Navigate to the project directory:
-   cd newsify
+   ```bash
+    cd News-App
+   ```
    <br>
 3. Install dependencies:
-   npm install
+  ```bash
+   npm i
+   ```
    <br>
 4. Run the development server:
-   npm run dev
+   ```bash
+    npm run dev
+   ```
    <br>
    <h1>Contributing</h1>
    Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
